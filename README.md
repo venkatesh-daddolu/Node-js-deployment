@@ -4,7 +4,7 @@
 
 1. Clone this project
 ```
-git clone https://github.com/verma-kunal/AWS-Session.git
+git clone https://github.com/venkatesh-daddolu/Node-js-deployment.git)
 ```
 2. Setup the following environment variables - `(.env)` file
 ```
@@ -48,7 +48,7 @@ sudo apt update
 
 1. Clone this project in the remote VM
 ```
-git clone https://github.com/verma-kunal/AWS-Session.git
+git clone https://github.com/venkatesh-daddolu/Node-js-deployment.git
 ```
 2. Setup the following environment variables - `(.env)` file
 ```
@@ -103,8 +103,8 @@ sudo systemctl enable nginx
 Deploy and Run Your Node.js Application:
     • Clone the project and navigate to the project directory:
       bash
-      Copy code
-      git clone https://github.com/verma-kunal/AWS-Session.git
+      Copy https://github.com/venkatesh-daddolu/Node-js-deployment.git
+      git clone 
       cd AWS-Session
     • Install the dependencies:
       bash
